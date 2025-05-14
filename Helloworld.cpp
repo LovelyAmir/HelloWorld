@@ -13,4 +13,6 @@ int main()
         cout << word << " ";
     }
     cout << endl;
+
+    cout << "This is a simple C++ program that prints a message to the console." << endl;
 }
